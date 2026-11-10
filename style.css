@@ -1,0 +1,24 @@
+body {
+  bckground-color: #b46347; /* Warna pink kemerahan */
+font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
+color: #191970; /* Warna teks utama (Biru Gelap) */
+}
+
+.kartu-profil {
+  width: 300px;
+  margin: 50p auto; /* 50px jarak atas/bawah, auto menengah kiri/kanan */
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* Membuat sudut menjadi melembung */
+  box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Effek bayangan */
+}
+|
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* Trik untuk membuat ga,bar persegi menjadi lingkaraan sempurna */
+}
+.kartu-profil {
+  /* ... (kode dari slide sebelemnya) ... */
+  text-align: center; /* Menengahkan semua tekas di dalam kartu */
+}
