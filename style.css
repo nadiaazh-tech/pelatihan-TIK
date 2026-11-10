@@ -11,14 +11,10 @@ color: #191970; /* Warna teks utama (Biru Gelap) */
   background-color: white;
   border-radius: 15px; /* Membuat sudut menjadi melembung */
   box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Effek bayangan */
+  text-align: center;
 }
-|
 
 .kartu-profil img {
   width: 150px;
   border-radius: 50%; /* Trik untuk membuat ga,bar persegi menjadi lingkaraan sempurna */
-}
-.kartu-profil {
-  /* ... (kode dari slide sebelemnya) ... */
-  text-align: center; /* Menengahkan semua tekas di dalam kartu */
 }
